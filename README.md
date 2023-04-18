@@ -11,21 +11,21 @@ Medi-Search Platform is an online appointment registration system. Online appoin
  **Redis:** memory cache<br/>
  **RabbitMQ:** message middleware<br/>
  **HTTPClient:** Http protocol client<br/>
- **Swagger2:** Api interface documentation tool
- **Nginx:** load balancing
- **Lombok:**
- **Mysql:** relational database
- **MongoDB:** Document-Oriented NoSQL Database
+ **Swagger2:** Api interface documentation tool<br/>
+ **Nginx:** load balancing<br/>
+ **Lombok:** code Generation tools<br/>
+ **Mysql:** relational database<br/>
+ **MongoDB:** Document-Oriented NoSQL Database<br/>
 ## Front-end Technology
- **Vue.js:** A progressive framework for web interfaces
- **Node.js:** JavaScript runtime environment
- **Axios:** Axios is a promise-based HTTP library
- **npm:** Package Manager
- **Babel:** Transcoder
- **Webpack:** packaging tool
+ **Vue.js:** A progressive framework for web interfaces<br/>
+ **Node.js:** JavaScript runtime environment<br/>
+ **Axios:** Axios is a promise-based HTTP library<br/>
+ **npm:** Package Manager<br/>
+ **Babel:** Transcoder<br/>
+ **Webpack:** packaging tool<br/>
 ## Other
- **Docker:** container technology
- **Git:** code management tool
+ **Docker:** container technology<br/>
+ **Git:** code management tool<br/>
 
 
 # Business Process

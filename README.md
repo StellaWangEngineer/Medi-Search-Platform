@@ -1,4 +1,4 @@
-#Hospital
+# Medi-Search-Platform
 # Project Description
 Medi-Search Platform is an online appointment registration system. Online appointment registration is a convenient medical service developed in recent years. It aims to alleviate the difficulty of seeing a doctor and registering a doctor. Seeing a doctor is not necessarily guaranteed. The appointment registration service provided by the online appointment registration service fundamentally solves this medical problem. Easy registration anytime, anywhere! No need to queue!
 # technology stack
@@ -11,7 +11,7 @@ Medi-Search Platform is an online appointment registration system. Online appoin
 ### HTTPClient: Http protocol client
 ### Swagger2: Api interface documentation tool
 ### Nginx: load balancing
-###Lombok
+### Lombok
 ### Mysql: relational database
 ### MongoDB: Document-Oriented NoSQL Database
 ## Front-end technology

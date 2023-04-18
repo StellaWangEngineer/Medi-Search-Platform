@@ -6,7 +6,7 @@ Medi-Search Platform is an online appointment registration system. Online appoin
 ## Backend technology
 ### SpringBoot: Simplify the initial construction and development process of new Spring applications
 ### SpringCloud: A cloud-native application development tool based on Spring Boot, technologies used by SpringCloud: (SpringCloudGateway, Spring Cloud Alibaba Nacos, Spring Cloud Alibaba Sentinel, SpringCloud Task, SpringCloudFeign, etc.)
-### MyBatis-Plus: Persistence layer framework
+### MyBatis-Plus: Persistence layer framework, ORM toools
 ### Redis: memory cache
 ### RabbitMQ: message middleware
 ### HTTPClient: Http protocol client

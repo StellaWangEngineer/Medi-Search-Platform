@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63fa8685-3ba1-411c-a642-1f091e5ecd53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/enums/AuthStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/enums/AuthStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/enums/DictEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/enums/DictEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/enums/OrderStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/enums/OrderStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/enums/PaymentStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/enums/PaymentStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/enums/PaymentTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/enums/PaymentTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/enums/RefundStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/enums/RefundStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/acl/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/acl/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/acl/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/acl/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/acl/RolePermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/acl/RolePermission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/acl/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/acl/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/acl/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/acl/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/base/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/base/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/base/BaseMongoEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/base/BaseMongoEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/cmn/Dict.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/cmn/Dict.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/cms/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/cms/Banner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/hosp/BookingRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/hosp/BookingRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/hosp/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/hosp/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/hosp/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/hosp/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/hosp/HospitalSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/hosp/HospitalSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/hosp/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/hosp/Schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/order/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/order/OrderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/order/PaymentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/order/PaymentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/order/RefundInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/order/RefundInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/user/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/user/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/user/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/user/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/model/user/UserLoginRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/model/user/UserLoginRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/acl/AssignVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/acl/AssignVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/acl/RoleQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/acl/RoleQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/acl/UserQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/acl/UserQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/cmn/DictEeVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/cmn/DictEeVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/BookingScheduleRuleVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/BookingScheduleRuleVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/DepartmentQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/DepartmentQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/DepartmentVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/DepartmentVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/HospitalQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/HospitalQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/HospitalSetQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/HospitalSetQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/ScheduleOrderVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/ScheduleOrderVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/hosp/ScheduleQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/hosp/ScheduleQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/msm/MsmVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/msm/MsmVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/order/OrderCountQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/order/OrderCountQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/order/OrderCountVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/order/OrderCountVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/order/OrderMqVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/order/OrderMqVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/order/OrderQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/order/OrderQueryVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/order/SignInfoVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/order/SignInfoVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/user/LoginVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/user/LoginVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/user/RegisterVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/user/RegisterVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/user/UserAuthVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/user/UserAuthVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-项目实体和vo类/model/com/atguigu/yygh/vo/user/UserInfoQueryVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramEntityAndVoClass/model/com/atguigu/yygh/vo/user/UserInfoQueryVo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OZORcvnhtpA8WdIdM8IucjAhvk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yuxinwang/Documents/Github/Hospital",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63fa8685-3ba1-411c-a642-1f091e5ecd53" name="Changes" comment="" />
+      <created>1681764631412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681764631412</updated>
+      <workItem from="1681764633705" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

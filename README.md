@@ -1,7 +1,8 @@
 # Medi-Search-Platform
+
 # Project Description
 Medi-Search Platform is an online appointment registration system. Online appointment registration is a convenient medical service developed in recent years. It aims to alleviate the difficulty of seeing a doctor and registering a doctor. Seeing a doctor is not necessarily guaranteed. The appointment registration service provided by the online appointment registration service fundamentally solves this medical problem. Easy registration anytime, anywhere! No need to queue!
-# technology stack
+# Technology Stack
 ## Backend technology
 ### SpringBoot: Simplify the initial construction and development process of new Spring applications
 ### SpringCloud: A cloud-native application development tool based on Spring Boot, technologies used by SpringCloud: (SpringCloudGateway, Spring Cloud Alibaba Nacos, Spring Cloud Alibaba Sentinel, SpringCloud Task, SpringCloudFeign, etc.)
@@ -24,6 +25,8 @@ Medi-Search Platform is an online appointment registration system. Online appoin
 ## other
 ### Docker: container technology
 ### Git: code management tool
+
+
 # Business Process
 ![image](image/BusinessProcess.png)
 

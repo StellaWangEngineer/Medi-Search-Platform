@@ -29,7 +29,7 @@ Medi-Search Platform is an online appointment registration system. Online appoin
  **Webpack:** packaging tool<br/>
 
 # Business Process
-![image](image/Business Process.png)
+![image](https://github.com/StellaWangEngineer/Medi-Search-Platform/blob/03ffe59b2478580d86aa03cbfa2b4dd1e5661d3b/image/Business%20Process.png)
 
 # Function Architect 
 ![image](https://github.com/StellaWangEngineer/Medi-Search-Platform/blob/506c07f6f96708b34ecbefa40d6bee768b20587e/image/Function%20Architect.png)

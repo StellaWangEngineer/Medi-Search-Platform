@@ -29,5 +29,5 @@ Medi-Search Platform is an online appointment registration system. Online appoin
  **Webpack:** packaging tool<br/>
 
 # Business Process
-![image](image/BusinessProcess.png)
+![image](image/Business Process.png)
 

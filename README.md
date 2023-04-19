@@ -8,14 +8,18 @@ Medi-Search Platform is an online appointment registration system. Online appoin
  **SpringBoot:** Simplify the initial construction and development process of new Spring applications<br/>
  **SpringCloud:** A cloud-native application development tool based on Spring Boot, technologies used by SpringCloud: (SpringCloudGateway, Spring Cloud Alibaba Nacos, Spring Cloud Alibaba Sentinel, SpringCloud Task, SpringCloudFeign, etc.)<br/>
  **MyBatis-Plus:** Persistence layer framework, ORM toools<br/>
- **Redis:** memory cache<br/>
+ **Redis:** non-relational database, memory cache<br/>
  **RabbitMQ:** message middleware<br/>
  **HTTPClient:** Http protocol client<br/>
  **Swagger2:** Api interface documentation tool<br/>
- **Nginx:** load balancing<br/>
+ **Nginx:** server reverse proxy, load balancing<br/>
  **Lombok:** code Generation tools<br/>
  **Mysql:** relational database<br/>
  **MongoDB:** Document-Oriented NoSQL Database<br/>
+ **Docker:** Container deployment packaging image<br/>
+ **Git:** code management tool<br/>
+ **Dockerfile:** Custom file image<br/>
+ **Jenkins:** Continuous integration tool<br/>
 ## Front-end Technology
  **Vue.js:** A progressive framework for web interfaces<br/>
  **Node.js:** JavaScript runtime environment<br/>
@@ -23,10 +27,6 @@ Medi-Search Platform is an online appointment registration system. Online appoin
  **npm:** Package Manager<br/>
  **Babel:** Transcoder<br/>
  **Webpack:** packaging tool<br/>
-## Other
- **Docker:** container technology<br/>
- **Git:** code management tool<br/>
-
 
 # Business Process
 ![image](image/BusinessProcess.png)

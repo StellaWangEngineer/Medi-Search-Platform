@@ -32,4 +32,4 @@ Medi-Search Platform is an online appointment registration system. Online appoin
 ![image](image/Business Process.png)
 
 # Function Architect 
-![image](image/Function Architect.png)
+![image](https://github.com/StellaWangEngineer/Medi-Search-Platform/blob/506c07f6f96708b34ecbefa40d6bee768b20587e/image/Function%20Architect.png)

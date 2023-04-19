@@ -25,7 +25,7 @@ Medi-Search Platform is an online appointment registration system. Online appoin
  **Node.js:** JavaScript runtime environment<br/>
  **Axios:** Axios is a promise-based HTTP library<br/>
  **npm:** Package Manager<br/>
- **Babel:** Transcoder<br/>
+ **Babel:** JS compiler, Transcoder<br/>
  **Webpack:** packaging tool<br/>
 
 # Business Process

@@ -1,4 +1,4 @@
-package com.atguigu.yygh.enums;
+package 01-entity-and-vo-class.enums;
 
 public enum AuthStatusEnum {
 

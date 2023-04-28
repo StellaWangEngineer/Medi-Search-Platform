@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.hosp;
+package 01-entity-and-vo-class.vo.hosp;
 
 import com.atguigu.yygh.model.hosp.Department;
 import com.baomidou.mybatisplus.annotation.TableField;

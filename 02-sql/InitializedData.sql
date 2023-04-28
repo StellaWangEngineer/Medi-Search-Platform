@@ -1,8 +1,3 @@
-﻿# Host: localhost  (Version 5.7.19-log)
-# Date: 2020-07-31 12:04:22
-# Generator: MySQL-Front 6.1  (Build 1.26)
-
-
 #
 # Data for table "dict"
 #

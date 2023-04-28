@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.user;
+package 01-entity-and-vo-class.vo.user;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import io.swagger.annotations.ApiModel;

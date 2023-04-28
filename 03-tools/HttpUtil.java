@@ -1,4 +1,4 @@
-package com.atguigu.yygh.common.utils;
+package tools;
 
 import lombok.extern.slf4j.Slf4j;
 

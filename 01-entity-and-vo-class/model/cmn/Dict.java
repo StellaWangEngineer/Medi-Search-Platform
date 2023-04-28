@@ -1,4 +1,4 @@
-package com.atguigu.yygh.model.cmn;
+package 01-entity-and-vo-class.model.cmn;
 
 import com.atguigu.yygh.model.base.BaseEntity;
 import com.baomidou.mybatisplus.annotation.*;

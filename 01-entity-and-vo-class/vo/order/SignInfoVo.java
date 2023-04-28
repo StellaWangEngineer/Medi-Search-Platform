@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.order;
+package 01-entity-and-vo-class.vo.order;
 
 import com.atguigu.yygh.model.base.BaseMongoEntity;
 import com.baomidou.mybatisplus.annotation.TableName;

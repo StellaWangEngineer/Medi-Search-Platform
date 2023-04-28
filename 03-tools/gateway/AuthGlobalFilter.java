@@ -1,4 +1,4 @@
-package com.atguigu.yygh.gateway.filter;
+package 03-tools.gateway;
 
 import com.alibaba.fastjson.JSONObject;
 import com.atguigu.yygh.common.helper.JwtHelper;

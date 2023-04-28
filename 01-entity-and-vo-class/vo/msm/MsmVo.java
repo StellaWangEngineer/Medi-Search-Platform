@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.msm;
+package 01-entity-and-vo-class.vo.msm;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

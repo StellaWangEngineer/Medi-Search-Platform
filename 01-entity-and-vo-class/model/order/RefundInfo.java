@@ -1,4 +1,4 @@
-package com.atguigu.yygh.model.order;
+package 01-entity-and-vo-class.model.order;
 
 import com.atguigu.yygh.model.base.BaseEntity;
 import com.baomidou.mybatisplus.annotation.TableField;

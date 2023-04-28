@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.user;
+package 01-entity-and-vo-class.vo.user;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

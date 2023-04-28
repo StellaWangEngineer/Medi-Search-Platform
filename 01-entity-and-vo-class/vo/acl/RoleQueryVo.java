@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.acl;
+package 01-entity-and-vo-class.vo.acl;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

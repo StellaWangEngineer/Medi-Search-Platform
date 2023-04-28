@@ -1,8 +1,3 @@
-﻿# Host: localhost  (Version 5.7.19-log)
-# Date: 2020-07-31 12:02:29
-# Generator: MySQL-Front 6.1  (Build 1.26)
-
-
 #
 # Database "yygh_cmn"
 #

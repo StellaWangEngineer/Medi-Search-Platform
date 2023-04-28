@@ -1,4 +1,4 @@
-package com.atguigu.yygh.model.user;
+package 01-entity-and-vo-class.model.user;
 
 import com.atguigu.yygh.model.base.BaseEntity;
 import com.baomidou.mybatisplus.annotation.TableField;

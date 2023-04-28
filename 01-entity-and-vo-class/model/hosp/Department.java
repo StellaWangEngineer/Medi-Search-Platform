@@ -1,4 +1,4 @@
-package com.atguigu.yygh.model.hosp;
+package 01-entity-and-vo-class.model.hosp;
 
 import com.atguigu.yygh.model.base.BaseEntity;
 import com.atguigu.yygh.model.base.BaseMongoEntity;

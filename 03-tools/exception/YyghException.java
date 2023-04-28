@@ -1,4 +1,4 @@
-package com.atguigu.yygh.common.exception;
+package 03-tools.exception;
 
 import com.atguigu.yygh.common.result.ResultCodeEnum;
 import io.swagger.annotations.ApiModel;

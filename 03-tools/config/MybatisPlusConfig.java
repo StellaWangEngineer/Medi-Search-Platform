@@ -1,4 +1,4 @@
-package com.atguigu.yygh.common.config;
+package 03-tools.config;
 
 import com.baomidou.mybatisplus.extension.plugins.OptimisticLockerInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;

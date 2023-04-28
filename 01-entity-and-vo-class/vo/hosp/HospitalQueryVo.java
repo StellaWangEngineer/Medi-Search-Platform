@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.hosp;
+package 01-entity-and-vo-class.vo.hosp;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

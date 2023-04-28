@@ -1,4 +1,4 @@
-package com.atguigu.yygh.vo.order;
+package 01-entity-and-vo-class.vo.order;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

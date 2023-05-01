@@ -1,4 +1,4 @@
-# Medi-Search-Platform
+# medi-search-platform
 
 # Project Description
 Famous Doctors Appointment Registration Platform is a convenient medical service developed in recent years, aiming at alleviating the difficulty of seeing a doctor and registering a doctor, so that patients can easily register anytime, anywhere! Using SpringCloud micro-service architecture and front-end and back-end separation technology, the background management system is divided into five modules: hospital settings, data dictionary, user management, order management, and statistics management. The front-end user system is divided into: hospital details, user login, patient management, Appointment registration, medical reminder module.
